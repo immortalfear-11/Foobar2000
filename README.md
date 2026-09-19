@@ -214,4 +214,4 @@ foobar2000 is the full free version with all features unlocked and all updates i
 Ready to elevate your music experience? Download foobar2000 now and enjoy the full power of an advanced audio player!
 
 ---
-**Last updated:** 2026-09-19 21:50:14 UTC
+**Last updated:** 2026-09-19 23:41:42 UTC
